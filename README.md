@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omthakur1224
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on computer science
 - 📫 How to reach via github
 
