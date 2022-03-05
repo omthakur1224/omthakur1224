@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/omthakur1224" target="blank"><img src="https://img.shields.io/twitter/follow/omthakur1224?logo=twitter&style=for-the-badge" alt="omthakur1224" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
 
