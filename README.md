@@ -8,9 +8,8 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
-- 📫 How to reach me **omthakur1224@gmail.com**
 - 💬 Ask me about Anything ! I am happy to help.
-
+- 📫 How to reach me **omthakur1224@gmail.com**
 <br/>
 <br/>
 
