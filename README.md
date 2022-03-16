@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Om Prakash</h1>
-<h3 align="">A passionate frontend developer from India</h3>
+<h2 align="">A passionate frontend developer from India</h2>
+<!-- 
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=omthakur1224&label=Profile%20views&color=0e75b6&style=flat" alt="omthakur1224" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omthakur1224&label=Profile%20views&color=0e75b6&style=flat" alt="omthakur1224" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omthakur1224" alt="omthakur1224" /></a> </p><p align="center"> <a href="https://twitter.com/omthakur1224" target="blank"><img src="https://img.shields.io/twitter/follow/omthakur1224?logo=twitter&style=for-the-badge" alt="omthakur1224" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omthakur1224" alt="omthakur1224" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/omthakur1224" target="blank"><img src="https://img.shields.io/twitter/follow/omthakur1224?logo=twitter&style=for-the-badge" alt="omthakur1224" /></a> </p> -->
+-->
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-<br/>
-<br/>
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Full Stack Web Development**
