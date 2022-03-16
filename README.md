@@ -44,7 +44,7 @@
  -->
 <br/>
 
-<h1 align="center">🔥 Streak Stats <h1/>
+<h1>🔥Streak Stats <h1/>
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=omthakur1224&theme=tokyonight" alt="omthakur1224" />
 </p>
