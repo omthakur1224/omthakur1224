@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omthakur1224" alt="omthakur1224" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/omthakur1224" target="blank"><img src="https://img.shields.io/twitter/follow/omthakur1224?logo=twitter&style=for-the-badge" alt="omthakur1224" /></a> </p> -->
-
+<div align="center">
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
@@ -33,3 +33,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakur1224&show_icons=true&locale=en&layout=compact" alt="omthakur1224" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omthakur1224&" alt="omthakur1224" /></p>
+</div>
