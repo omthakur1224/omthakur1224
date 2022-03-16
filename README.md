@@ -51,26 +51,19 @@
 </div>
  -->
 <br/>
-<br/>
 
-
-## 🔥 Streak Stats 
-
+<h1 align="center">🔥 Streak Stats <h1/>
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=omthakur1224&theme=tokyonight" alt="omthakur1224" />
 </p>
 
-<br/>
-
-## ⚙️ &nbsp; GitHub Analytics
-
+<h1 align="center">⚙️ GitHub Analytics<h1/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omthakur1224&show_icons=true&theme=tokyonight"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakur1224&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omthakur1224" />
 </p>
-
+  
 <h1 align="center">Let's Connect</h1>
-
 <p align="center" >
 <a href="https://dev.to/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
 <a href="https://twitter.com/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
