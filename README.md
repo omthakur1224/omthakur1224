@@ -69,8 +69,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakur1224&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omthakur1224" />
 </p>
 
-<br/>
-
 <h1 align="center">Let's Connect</h1>
 
 <p align="center" >
