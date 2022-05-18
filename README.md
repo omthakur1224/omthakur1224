@@ -48,11 +48,11 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=omthakur1224&theme=tokyonight" alt="omthakur1224" />
 </p>
 
-<h1 align="center">⚙️GitHub Analytics<h1/>
+<!-- <h1 align="center">⚙️GitHub Analytics<h1/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omthakur1224&show_icons=true&theme=tokyonight"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakur1224&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omthakur1224" />
-</p>
+</p> -->
   
 <h1 align="center">Let's Connect</h1>
 <p align="center" >
