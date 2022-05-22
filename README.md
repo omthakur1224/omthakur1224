@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Om Prakash</h1>
 <h2 align="">A passionate frontend developer from India</h2>
 
-<a target="_blank">
-  <img align="center" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+<a target="_blank" align="center">
+  <img height="250" width="400" alt="GIF" align="center" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
 - 🔭 I’m currently working on **Web Development**
@@ -14,13 +14,13 @@
 <br/>
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=omthakur1224" alt="omthakur1224" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/omthakur1224?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/omthakur1224?label=Stars" alt="Total Stars">
+  <img align="center" src="https://komarev.com/ghpvc/?username=omthakur1224" alt="omthakur1224" />
+  <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/omthakur1224?label=Followers&style=social"> •   
+  <img align="center" src="https://img.shields.io/github/stars/omthakur1224?label=Stars" alt="Total Stars">
 </p>
 
 
-<a align="center" target="_blank"  align="center"><img  align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a align="center" target="_blank"><img  align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <!-- <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=56BBF1&labelColor=282828">
