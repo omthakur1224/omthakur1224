@@ -10,6 +10,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
 - 💬 Ask me about Anything ! I am happy to help.
 - 📫 How to reach me **omthakur1224@gmail.com**
+- 📄 Know about my experiences [See Resume.]([https://drive.google.com/file/d/1Y24SJHLgP7A8x6ETVDe9gciS8pdbrtzP/view?usp=sharing](https://drive.google.com/drive/folders/1uBQIZC84qRJW9gYZBO7e6bIcvMjkkkah))
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
@@ -78,6 +79,7 @@
 
 ### <h2>💻 Databases 💻</h2>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br> -->
 
 ### <h2>🚀 Web Hosting 🚀</h2>
