@@ -35,9 +35,9 @@
     <a href="https://twitter.com/omthakur1224">
         <img align="center" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/omthakur1224" />
     </a>
-<!--     <a href="https://fb.com/omthakur1224">
-        <img align="center" src="https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="https://fb.com/omthakur1224" />
-    </a> -->
+    <a href="https://www.hackerrank.com/omthakur1224?hr_r=1">
+        <img align="center" src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=blue" alt="https://fb.com/omthakur1224" />
+    </a>
 </p>
 
 <br><br>
