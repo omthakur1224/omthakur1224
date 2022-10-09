@@ -22,8 +22,8 @@
     <a href="https://www.linkedin.com/in/omthakur3404/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/omthakur3404/" />
     </a>
-    <a href="[https://omthakur1224.github.io/](https://omprakash-portfolio.vercel.app/)">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="[https://omthakur1224.github.io/](https://omprakash-portfolio.vercel.app/)" />
+    <a href="https://omprakash-portfolio.vercel.app">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omprakash-portfolio.vercel.app" />
     </a>
     <a title="omthakur1224@gmai.com" href="mailto:getomthakur1224@gmai.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="getomthakur1224@gmail.com" />
