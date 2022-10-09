@@ -35,9 +35,7 @@
     <a href="https://twitter.com/omthakur1224">
         <img align="center" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/omthakur1224" />
     </a>
-    <a href="https://www.hackerrank.com/omthakur1224?hr_r=1">
-        <img align="center" src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=blue" alt="https://fb.com/omthakur1224" />
-    </a>
+    ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 </p>
  
 <p align="left">  
@@ -45,12 +43,13 @@
   <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/omthakur1224?label=Followers&style=social"> •   
   <img align="center" src="https://img.shields.io/github/stars/omthakur1224?label=Stars" alt="Total Stars">
 </p>
+
 <br><br>
 
 
-
-
-<a align="center" target="_blank"><img  align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<!-- 
+//image
+<a align="center" target="_blank"><img  align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a> -->
 <!-- <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=56BBF1&labelColor=282828">
@@ -68,20 +67,29 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C-Language](https://img.shields.io/badge/-Language-61DAFB?logo=c&logoColor=red&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)<br><br>
 
 
-### <h2>🚀 Libraries & Frameworks 🚀</h2>
-<a><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/></a>
+### <h2>🚀 Libraries, Platforms & Frameworks 🚀</h2>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ### <h2>💻 Databases 💻</h2>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br> -->
 
-
+### <h2>🚀 Web Hosting 🚀</h2>
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
 
 
