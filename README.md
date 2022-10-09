@@ -19,25 +19,25 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/saurabhpagrut/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/saurabhpagrut/" />
+    <a href="https://www.linkedin.com/in/omthakur3404/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/omthakur3404/" />
     </a>
-    <a href="https://saurabhpagrut.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://saurabhpagrut.github.io/" />
+    <a href="https://omthakur1224.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omthakur1224.github.io/" />
     </a>
-    <a title="getsaurabhpagrut@gmai.com" href="mailto:getsaurabhpagrut@gmai.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="getsaurabhpagrut@gmail.com" />
+    <a title="omthakur1224@gmai.com" href="mailto:getomthakur1224@gmai.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="getomthakur1224@gmail.com" />
     </a>
     </a>
-    <a href="https://www.leetcode.com/saurabhpagrut">
-        <img align="center" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="https://www.leetcode.com/saurabhpagrut" />
+    <a href="https://www.leetcode.com/omthakur1224">
+        <img align="center" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="https://www.leetcode.com/omthakur1224" />
     </a>
-    <a href="https://twitter.com/pagrutsaurabh">
-        <img align="center" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/pagrutsaurabh" />
+    <a href="https://twitter.com/omthakur1224">
+        <img align="center" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/omthakur1224" />
     </a>
-    <a href="https://fb.com/saurabh.pagrut.9">
-        <img align="center" src="https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="https://fb.com/saurabh.pagrut.9" />
-    </a>
+<!--     <a href="https://fb.com/omthakur1224">
+        <img align="center" src="https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="https://fb.com/omthakur1224" />
+    </a> -->
 </p>
 
 <br><br>
