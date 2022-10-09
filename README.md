@@ -40,7 +40,7 @@
     </a>
 </p>
  
-<p align="center">  
+<p align="left">  
   <img align="center" src="https://komarev.com/ghpvc/?username=omthakur1224" alt="omthakur1224" />
   <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/omthakur1224?label=Followers&style=social"> •   
   <img align="center" src="https://img.shields.io/github/stars/omthakur1224?label=Stars" alt="Total Stars">
