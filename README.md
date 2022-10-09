@@ -39,15 +39,15 @@
         <img align="center" src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=blue" alt="https://fb.com/omthakur1224" />
     </a>
 </p>
-
-<br><br>
-
  
 <p align="center">  
   <img align="center" src="https://komarev.com/ghpvc/?username=omthakur1224" alt="omthakur1224" />
   <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/omthakur1224?label=Followers&style=social"> •   
   <img align="center" src="https://img.shields.io/github/stars/omthakur1224?label=Stars" alt="Total Stars">
 </p>
+<br><br>
+
+
 
 
 <a align="center" target="_blank"><img  align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
