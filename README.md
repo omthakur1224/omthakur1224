@@ -10,7 +10,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
 - 💬 Ask me about Anything ! I am happy to help.
 - 📫 How to reach me **omthakur1224@gmail.com**
-- 📄 Know about my experiences [See Resume.]([https://drive.google.com/file/d/1Y24SJHLgP7A8x6ETVDe9gciS8pdbrtzP/view?usp=sharing](https://drive.google.com/drive/folders/1uBQIZC84qRJW9gYZBO7e6bIcvMjkkkah))
+- 📄 Know about my experiences [See Resume.](https://drive.google.com/drive/folders/1uBQIZC84qRJW9gYZBO7e6bIcvMjkkkah)
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
