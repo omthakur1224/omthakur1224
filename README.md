@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Prakash</h1>
-<h2 align="">A Passinate Frontend Developer from Himachal Pradesh, India</h2>
+<h2 align="center">A Passinate Frontend Developer from Himachal Pradesh, India</h2>
 
 <a target="_blank" align="center">
   <img height="250" width="400" alt="GIF" align="center" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
