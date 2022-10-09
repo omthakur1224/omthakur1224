@@ -10,12 +10,10 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
 - 💬 Ask me about Anything ! I am happy to help.
 - 📫 How to reach me **omthakur1224@gmail.com**
-<br/>
-<br/>
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2>📱 Let's Connect 📱</h2>
+<!-- <h2>📱 Let's Connect 📱</h2>
 
 
 <p align="left">
@@ -35,8 +33,7 @@
     <a href="https://twitter.com/omthakur1224">
         <img align="center" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/omthakur1224" />
     </a>
-    ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-</p>
+</p> -->
  
 <p align="left">  
   <img align="center" src="https://komarev.com/ghpvc/?username=omthakur1224" alt="omthakur1224" />
@@ -58,6 +55,7 @@
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 ### <h2>👨🏻‍💻 Tech Stack & Languages</h2>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -96,7 +94,6 @@
   </a>
 </div>
  -->
-<br/>
 
 <h1 align="center">🔥Streak Stats <h1/>
 <p align="center">
