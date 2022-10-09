@@ -5,6 +5,7 @@
   <img height="450" width="100%" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
+<br>
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
@@ -12,6 +13,7 @@
 - 📄 Know about my experiences [See Resume.](https://drive.google.com/drive/folders/1uBQIZC84qRJW9gYZBO7e6bIcvMjkkkah)
 - 📫 How to reach me **omthakur1224@gmail.com**
  
+ <br>
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <!-- <h2>📱 Let's Connect 📱</h2>
@@ -54,7 +56,7 @@
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
-
+<br>
 ### <h2>👨🏻‍💻 Tech Stack & Languages</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,17 +78,17 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-
+<br>
 ### <h2>💻 Databases 💻</h2>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br> -->
-
+<br>
 ### <h2>🚀 Web Hosting 🚀</h2>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
-
+<br>
 <!-- 
 <h1  align="center">⚙️ Languages and Tools</h1> <br/>
 <p  align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  &nbsp; &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  &nbsp; &nbsp;  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp; &nbsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <br/><br/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></p>
@@ -97,18 +99,19 @@
   </a>
 </div>
  -->
+<br>
 
 <h1 align="center">🔥Streak Stats <h1/>
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=omthakur1224&theme=tokyonight" alt="omthakur1224" />
 </p>
-
+<br>
 <h1 align="center">⚙️GitHub Analytics<h1/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omthakur1224&show_icons=true&theme=tokyonight"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakur1224&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omthakur1224" />
 </p>
-  
+  <br>
 <h1 align="center">Let's Connect</h1>
 <p align="center" >
 <a href="https://dev.to/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
