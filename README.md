@@ -2,7 +2,7 @@
 <h2 align="center">A Passinate Frontend Developer from Himachal Pradesh, India</h2>
 
 <a target="_blank" align="center">
-  <img height="250" width="400" alt="GIF" align="center" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
 - 🔭 I’m currently working on **Web Development**
