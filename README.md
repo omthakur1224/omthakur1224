@@ -35,7 +35,6 @@
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 ### <h2>👨🏻‍💻 Tech Stack & Languages</h2>
-![Java](https://img.shields.io/badge/REACT-ED8B00?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -45,10 +44,7 @@
 
 
 ### <h2>🚀 Libraries & Frameworks 🚀</h2>
-<a><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="SPRING"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&logo=hibernate&color=000030&label=" alt="Hibernate"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a><br><br>
+<a><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/></a>
 
 ### <h2>💻 Databases 💻</h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
