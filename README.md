@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
 - 💬 Ask me about Anything ! I am happy to help.
-- 📫 How to reach me **omthakur1224@gmail.com**
 - 📄 Know about my experiences [See Resume.](https://drive.google.com/drive/folders/1uBQIZC84qRJW9gYZBO7e6bIcvMjkkkah)
+- 📫 How to reach me **omthakur1224@gmail.com**
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
