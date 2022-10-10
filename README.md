@@ -119,8 +119,12 @@
 <a href="https://twitter.com/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
 <a href="https://linkedin.com/in/omthakur3404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omthakur3404" height="40" width="50" /></a>&nbsp; &nbsp;
 <a href="https://stackoverflow.com/users/18213231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18213231" height="40" width="50" /></a>&nbsp; &nbsp;
+
+<!--
 <a href="https://fb.com/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
+
 <a href="https://instagram.com/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
+-->
 <a href="https://medium.com/@omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
 <a href="https://www.hackerrank.com/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omthakur1224" height="40" width="50" /></a>
 </p>
