@@ -19,7 +19,7 @@
 </p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<h1 align="left">Let's Connect</h1>
+<h2 align="left">Let's Connect</h2>
 <p align="left" >
   <a href="https://linkedin.com/in/omthakur3404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omthakur3404" height="40" width="50" /></a>&nbsp; &nbsp;
   <a href="https://twitter.com/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
