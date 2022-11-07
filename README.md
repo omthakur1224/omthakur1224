@@ -117,7 +117,8 @@
 
 <h1 align="center">⚙️GitHub Analytics<h1/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omthakur1224&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omthakur1224&show_icons=true&theme=radical"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omthakur1224&show_icons=true&theme=radical&tokyonight)
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakur1224&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omthakur1224" />
 </p>
 
