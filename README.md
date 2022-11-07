@@ -112,7 +112,7 @@
 
 <h1 align="center">🔥Streak Stats <h1/>
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=omthakur1224&theme=tokyonight" alt="omthakur1224" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=omthakur1224&theme=radical" alt="omthakur1224" />
 </p>
 
 <h1 align="center">⚙️GitHub Analytics<h1/>
