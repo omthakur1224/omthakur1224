@@ -19,7 +19,7 @@
 </p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<h2 align="left">👋 Let's Connect</h2>
+<h1 align="left">👋 Let's Connect</h1>
 <p align="left" >
   <a href="https://linkedin.com/in/omthakur3404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omthakur3404" height="40" width="50" /></a>&nbsp; &nbsp;
   <a href="https://twitter.com/omthakur1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omthakur1224" height="40" width="50" /></a>&nbsp; &nbsp;
@@ -78,7 +78,7 @@
 
 
 
-### <h2>🚀 Libraries, Platforms & Frameworks 🚀</h2>
+### <h1>🚀 Libraries, Platforms & Frameworks 🚀</h1>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -88,12 +88,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### <h2>💻 Databases 💻</h2>
+### <h1>💻 Databases 💻</h1>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br> -->
 
-### <h2>🚀 Web Hosting 🚀</h2>
+### <h1>🚀 Web Hosting 🚀</h1>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
