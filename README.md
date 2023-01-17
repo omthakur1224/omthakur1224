@@ -118,7 +118,7 @@
 <h1 align="center">⚙️GitHub Analytics<h1/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omthakur1224&show_icons=true&theme=radical"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omthakur1224)](https://github.com/omthakur1224/github-readme-stats)
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=omthakur1224)](https://github.com/omthakur1224/github-readme-stats)
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakur1224&show_icons=true&locale=en&layout=compact&theme=radical" alt="omthakur1224" />
 </p>
 
